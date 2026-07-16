@@ -117,8 +117,8 @@ At **SenseHawk (Reliance Industries)**, I've owned and delivered multiple backen
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anujkumar-5&show_icons=true&hide_border=true&count_private=true&theme=default" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujkumar-5&hide_border=true&theme=default" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anujkumar1512&show_icons=true&hide_border=true&count_private=true&theme=default" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujkumar1512&hide_border=true&theme=default" height="150" />
 </p>
 
 ---
