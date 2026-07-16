@@ -21,7 +21,7 @@
 
 ### About me
 
-I build **scalable backend systems and agentic AI products** for complex, data-heavy enterprise workflows — with 7+ years shipping production microservices, event-driven architectures, and LLM pipelines.
+I build **scalable backend systems and agentic AI products** for complex, data-heavy enterprise workflows — with 8+ years shipping production microservices, event-driven architectures, and LLM pipelines.
 
 At **SenseHawk (Reliance Industries)**, I've owned and delivered multiple backend-heavy product pillars end to end — from real-time collaboration services and workflow engines to multi-agent AI systems — generating **$1M+ in platform revenue** and automating **10,000+ daily operations**.
 
